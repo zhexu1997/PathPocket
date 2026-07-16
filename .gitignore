@@ -1,0 +1,25 @@
+# Secrets & local data
+.env
+*.pem
+*.key
+
+# Runtime outputs
+runs/
+api_llm_cache/
+pathpocket_storage*/
+mineru_output/
+tuning/
+MODEL/
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
