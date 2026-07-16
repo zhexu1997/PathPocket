@@ -87,4 +87,4 @@ We would like to express our gratitude to the developers and maintainers of the 
 - [MinerU](https://github.com/opendatalab/MinerU) for robust PDF parsing and structured data extraction.
 - [LightRAG](https://github.com/HKUDS/LightRAG) for the foundational architecture of retrieval-augmented generation.
 - [vLLM](https://github.com/vllm-project/vllm) for high-throughput LLM serving.
-- The creators of foundational models including [Qwen](https://github.com/QwenLM/Qwen), [Virchow2](https://huggingface.co/paige-ai/Virchow2), and [BGE-M3](https://huggingface.co/BAAI/bge-m3) for advancing multimodal representation learning.
+- The creators of foundational models including [Qwen](https://github.com/QwenLM/Qwen), [Virchow2](https://huggingface.co/paige-ai/Virchow2), and [BGE-M3](https://huggingface.co/BAAI/bge-m3).
