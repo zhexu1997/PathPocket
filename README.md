@@ -17,8 +17,7 @@ PathPocket/
 ├── pathpocket/     # Shared RAG engine & multimodal pathology hypergraph utilities
 ├── hypergraph/     # Construction pipeline (MinerU parsing → extraction → merge → embed)
 ├── reasoning/      # Multi-modal pathology reasoning & inference pipeline
-├── README.md       # This file
-└── .gitignore
+└──  README.md       # This file
 ```
 
 ## 🚀 Quick Start
